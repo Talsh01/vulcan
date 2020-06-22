@@ -1,0 +1,11 @@
+{
+    "api_key": "Y7W15DSVNQY42DSCN53ADWZ4OMOI2C595JPJM1JWOC3EXURKQ2ZI45S6I2XSY87N",
+    "mongo_connection_string": "mongodb+srv://dbuser:Mongo123456@cluster0-itbvy.mongodb.net/vulcan?retryWrites=true&w=majority",
+    "mongo_db_name": "vulcan",
+    "vulners_hostname": "https://vulners.com",
+    "vulners_collections_endpoint": "/api/v3/archive/collection/",
+    "vulners_collection_type": "nessus",
+    "get_collection_interval_seconds": 86400,
+    "datefrom": "2020-04-01",
+    "dateto": "2020-04-07"
+}
